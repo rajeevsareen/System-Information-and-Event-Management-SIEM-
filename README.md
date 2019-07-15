@@ -1,2 +1,4 @@
 # System-Information-and-Event-Management-SIEM-
-System Information and Event Management (SIEM)
+Implementation of SIEM which will perform analysis & correlation of security events.
+
+The implementation of Security Information Event Management (SIEM) system in the IT infrastructure is the direction of the enterprise networks for monitoring malicious and anomalous traffic in Security Operation Centres (SOC). Log management is the challenge of SIEM solutions due to the voluminous amount of data collected from different types of devices daily. Another challenge is the classification of true alerts by analysing the logs collected. The Project Coordinate (Correlation of Relevant Data in Network Access Technologies) explores different correlation techniques that identify patterns based on specific components in the logs. This correlation technique can be used to aid in determining potential attacks that can happen by analysing series of logs based on header, content and behaviour. The system is tested in an isolated network environment where different attacks are executed to compare how the different correlation techniques summarize the logs.
